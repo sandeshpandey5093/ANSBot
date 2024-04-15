@@ -1,0 +1,6 @@
+streamlit
+plotly
+swig
+wrds
+pyportfolioopt
+git+https://github.com/AI4Finance-Foundation/FinRL.git
